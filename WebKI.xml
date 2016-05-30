@@ -31,7 +31,6 @@
   <HelpKINode Title="BaseConfiguration.MediumTimeout property" Url="html/80e04432-9686-d8c2-d6a7-c348412d4c68.htm" />
   <HelpKINode Title="BaseConfiguration.PageSourceFolder property" Url="html/94be23dd-73c0-bcd7-2792-0dcebe037f52.htm" />
   <HelpKINode Title="BaseConfiguration.Password property" Url="html/ebe26c1e-1314-0239-0079-3146f5c8398c.htm" />
-  <HelpKINode Title="BaseConfiguration.PhantomJsPath property" Url="html/f9462fa2-43fd-88b2-d557-d1310602f223.htm" />
   <HelpKINode Title="BaseConfiguration.Protocol property" Url="html/2a59eb82-246e-11a2-e857-95483f98d1f7.htm" />
   <HelpKINode Title="BaseConfiguration.Proxy property" Url="html/f50d335c-f673-3296-79c4-62b45c78ecc9.htm" />
   <HelpKINode Title="BaseConfiguration.ScreenShotFolder property" Url="html/122c7ee5-d318-9638-24a9-6b965f20a6d4.htm" />
@@ -311,6 +310,22 @@
   </HelpKINode>
   <HelpKINode Title="MdxHelper.ExecuteMdxCommand method" Url="html/99a8b330-adaf-ed59-c8c0-6a297abb95b1.htm" />
   <HelpKINode Title="MediumTimeout property" Url="html/80e04432-9686-d8c2-d6a7-c348412d4c68.htm" />
+  <HelpKINode Title="MyEventFiringWebDriver class">
+    <HelpKINode Title="MyEventFiringWebDriver Class" Url="html/f3a9553d-de28-3e8c-73a4-024f6ca5df08.htm" />
+    <HelpKINode Title="about MyEventFiringWebDriver class" Url="html/f3a9553d-de28-3e8c-73a4-024f6ca5df08.htm" />
+    <HelpKINode Title="constructor" Url="html/17ada575-5e20-b70c-36b0-22fcf104436d.htm" />
+    <HelpKINode Title="events" Url="html/cf221458-be28-7ce0-d20b-b0479a3f00f4.htm" />
+    <HelpKINode Title="methods" Url="html/40b08151-a161-1be2-9055-df0f7a34c48f.htm" />
+    <HelpKINode Title="properties" Url="html/cf2a618c-52bf-de85-ef82-25afa13ea188.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MyEventFiringWebDriver.MyEventFiringWebDriver constructor" Url="html/17ada575-5e20-b70c-36b0-22fcf104436d.htm" />
+  <HelpKINode Title="MyEventFiringWebDriver.OnElementClicking method" Url="html/03662293-ce3e-4523-4b1a-d4e5bf75adcb.htm" />
+  <HelpKINode Title="MyEventFiringWebDriver.OnElementValueChanged method" Url="html/4379446b-6e5d-7910-be61-a36f7b574409.htm" />
+  <HelpKINode Title="MyEventFiringWebDriver.OnElementValueChanging method" Url="html/f48cedf2-98bb-b44e-ec60-dbd9aba72184.htm" />
+  <HelpKINode Title="MyEventFiringWebDriver.OnFindingElement method" Url="html/d3edf0e7-1e88-558a-d59c-686d4055b048.htm" />
+  <HelpKINode Title="MyEventFiringWebDriver.OnNavigating method" Url="html/b5c733bf-4b67-c2a3-15e2-35fc33ba4b8b.htm" />
+  <HelpKINode Title="MyEventFiringWebDriver.OnScriptExecuted method" Url="html/71b606f6-6fbe-cfa4-6032-b8ffb9711c25.htm" />
+  <HelpKINode Title="MyEventFiringWebDriver.OnScriptExecuting method" Url="html/6171313d-b7e9-68ad-2a0b-19c34afb22e0.htm" />
   <HelpKINode Title="Name enumeration member" Url="html/64a6eff1-1642-a6be-95f5-38c0ebf1f42e.htm" />
   <HelpKINode Title="NameHelper class">
     <HelpKINode Title="NameHelper Class" Url="html/c8ce5d12-58ae-7918-7616-014b87d8db2c.htm" />
@@ -349,6 +364,7 @@
   <HelpKINode Title="Objectivity.Test.Automation.Common.Helpers.WaitHelper class" Url="html/24822fca-e459-1c40-fc1b-57de5298cc20.htm" />
   <HelpKINode Title="Objectivity.Test.Automation.Common.Locator enumeration" Url="html/64a6eff1-1642-a6be-95f5-38c0ebf1f42e.htm" />
   <HelpKINode Title="Objectivity.Test.Automation.Common.Logger namespace" Url="html/3aea28a4-7d08-0e59-3eac-6f7fa49442a7.htm" />
+  <HelpKINode Title="Objectivity.Test.Automation.Common.Logger.MyEventFiringWebDriver class" Url="html/f3a9553d-de28-3e8c-73a4-024f6ca5df08.htm" />
   <HelpKINode Title="Objectivity.Test.Automation.Common.Logger.TestLogger class" Url="html/a7b4a4a7-a74e-55d3-7a40-3418d3f03491.htm" />
   <HelpKINode Title="Objectivity.Test.Automation.Common.TestBase class" Url="html/56feabed-6c8e-cff2-aadc-c33d37f41bda.htm" />
   <HelpKINode Title="Objectivity.Test.Automation.Common.Types namespace" Url="html/56006642-1220-a9f1-f08c-308ac8b16ddf.htm" />
@@ -368,6 +384,13 @@
   <HelpKINode Title="Objectivity.Test.Automation.Common.WebElements.Kendo.KendoTreeView class" Url="html/b1b62405-66a9-2a1f-7e93-bb783b1c5761.htm" />
   <HelpKINode Title="Objectivity.Test.Automation.Common.WebElements.Select class" Url="html/c6d43e99-403c-02a1-7a44-7a18fb20f5b6.htm" />
   <HelpKINode Title="Objectivity.Test.Automation.Common.WebElements.Table class" Url="html/b32fe87a-4b52-8172-1167-bdd18b78f9a6.htm" />
+  <HelpKINode Title="OnElementClicking method" Url="html/03662293-ce3e-4523-4b1a-d4e5bf75adcb.htm" />
+  <HelpKINode Title="OnElementValueChanged method" Url="html/4379446b-6e5d-7910-be61-a36f7b574409.htm" />
+  <HelpKINode Title="OnElementValueChanging method" Url="html/f48cedf2-98bb-b44e-ec60-dbd9aba72184.htm" />
+  <HelpKINode Title="OnFindingElement method" Url="html/d3edf0e7-1e88-558a-d59c-686d4055b048.htm" />
+  <HelpKINode Title="OnNavigating method" Url="html/b5c733bf-4b67-c2a3-15e2-35fc33ba4b8b.htm" />
+  <HelpKINode Title="OnScriptExecuted method" Url="html/71b606f6-6fbe-cfa4-6032-b8ffb9711c25.htm" />
+  <HelpKINode Title="OnScriptExecuting method" Url="html/6171313d-b7e9-68ad-2a0b-19c34afb22e0.htm" />
   <HelpKINode Title="Open method" Url="html/27704cba-f8a0-c08d-0a21-beeebea059f3.htm" />
   <HelpKINode Title="Options property" Url="html/ea742792-1f69-3f34-ea27-1b98dbc914b5.htm" />
   <HelpKINode Title="Page property" Url="html/2fe55ce9-240c-5cf0-01a4-4db2326e2f80.htm" />
@@ -392,8 +415,6 @@
   <HelpKINode Title="PerformanceHelper.PrintAveragePercentiles90DurationMilliseconds method" Url="html/ef9dcfe7-5515-334f-f575-39746472dc8b.htm" />
   <HelpKINode Title="PerformanceHelper.StartMeasure method" Url="html/3fcea8da-15e7-3507-2557-b0e3fe5939b6.htm" />
   <HelpKINode Title="PerformanceHelper.StopMeasure method" Url="html/a5b8ff37-8967-8b4b-d148-cb87a46423a0.htm" />
-  <HelpKINode Title="PhantomJs enumeration member" Url="html/fd8f95a4-1921-2ebe-a199-a6c1d3adcc8c.htm" />
-  <HelpKINode Title="PhantomJsPath property" Url="html/f9462fa2-43fd-88b2-d557-d1310602f223.htm" />
   <HelpKINode Title="Png enumeration member" Url="html/24ea484b-208c-10a9-79d9-518c88c2b6e9.htm" />
   <HelpKINode Title="Ppt enumeration member" Url="html/24ea484b-208c-10a9-79d9-518c88c2b6e9.htm" />
   <HelpKINode Title="Pptx enumeration member" Url="html/24ea484b-208c-10a9-79d9-518c88c2b6e9.htm" />
