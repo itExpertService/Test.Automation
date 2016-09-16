@@ -40,6 +40,7 @@
   <HelpKINode Title="BaseConfiguration.TestBrowser property" Url="html/3b9b8dd0-2974-e198-b614-393af8dfe4e3.htm" />
   <HelpKINode Title="BaseConfiguration.Url property" Url="html/0b048082-e0b6-9950-7cc0-2d133cf5ae9a.htm" />
   <HelpKINode Title="BaseConfiguration.UseCurrentDirectory property" Url="html/6132d977-8f07-63da-f593-3cced2619c83.htm" />
+  <HelpKINode Title="BaseConfiguration.UseDefaultFirefoxProfile property" Url="html/2bf290b0-e753-6742-16b5-506bfc0bb792.htm" />
   <HelpKINode Title="BaseConfiguration.Username property" Url="html/a72078ab-40e0-06a3-836c-0c5e762e168b.htm" />
   <HelpKINode Title="Bmp enumeration member" Url="html/24ea484b-208c-10a9-79d9-518c88c2b6e9.htm" />
   <HelpKINode Title="Browser property" Url="html/d76bb42c-77f3-6115-eac5-e51f53aff2a0.htm" />
@@ -548,6 +549,7 @@
   <HelpKINode Title="UntickCheckbox method" Url="html/9c38b78a-d89b-038d-1e4c-2669e847a00b.htm" />
   <HelpKINode Title="Url property" Url="html/0b048082-e0b6-9950-7cc0-2d133cf5ae9a.htm" />
   <HelpKINode Title="UseCurrentDirectory property" Url="html/6132d977-8f07-63da-f593-3cced2619c83.htm" />
+  <HelpKINode Title="UseDefaultFirefoxProfile property" Url="html/2bf290b0-e753-6742-16b5-506bfc0bb792.htm" />
   <HelpKINode Title="Username property" Url="html/a72078ab-40e0-06a3-836c-0c5e762e168b.htm" />
   <HelpKINode Title="Value property" Url="html/a224d893-d284-8e18-ec65-227de03e7d4e.htm" />
   <HelpKINode Title="Verify class">
