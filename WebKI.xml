@@ -31,6 +31,7 @@
   <HelpKINode Title="BaseConfiguration.MediumTimeout property" Url="html/80e04432-9686-d8c2-d6a7-c348412d4c68.htm" />
   <HelpKINode Title="BaseConfiguration.PageSourceFolder property" Url="html/94be23dd-73c0-bcd7-2792-0dcebe037f52.htm" />
   <HelpKINode Title="BaseConfiguration.Password property" Url="html/ebe26c1e-1314-0239-0079-3146f5c8398c.htm" />
+  <HelpKINode Title="BaseConfiguration.PathToFirefoxProfile property" Url="html/e6056b97-fc5d-8643-da13-686cf2900170.htm" />
   <HelpKINode Title="BaseConfiguration.PhantomJsPath property" Url="html/f9462fa2-43fd-88b2-d557-d1310602f223.htm" />
   <HelpKINode Title="BaseConfiguration.Protocol property" Url="html/2a59eb82-246e-11a2-e857-95483f98d1f7.htm" />
   <HelpKINode Title="BaseConfiguration.Proxy property" Url="html/f50d335c-f673-3296-79c4-62b45c78ecc9.htm" />
@@ -379,6 +380,7 @@
   </HelpKINode>
   <HelpKINode Title="PartialLinkText enumeration member" Url="html/64a6eff1-1642-a6be-95f5-38c0ebf1f42e.htm" />
   <HelpKINode Title="Password property" Url="html/ebe26c1e-1314-0239-0079-3146f5c8398c.htm" />
+  <HelpKINode Title="PathToFirefoxProfile property" Url="html/e6056b97-fc5d-8643-da13-686cf2900170.htm" />
   <HelpKINode Title="Pdf enumeration member" Url="html/24ea484b-208c-10a9-79d9-518c88c2b6e9.htm" />
   <HelpKINode Title="Percentile90 property" Url="html/b1145ff3-7b50-d8b2-9e87-084547235de1.htm" />
   <HelpKINode Title="PerformanceHelper class">
